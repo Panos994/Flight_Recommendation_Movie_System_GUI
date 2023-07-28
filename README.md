@@ -8,7 +8,7 @@ Flight Recommendation Movie Sys
 The result will be an arraylike with the indexes that complies to our logic.
 
 to run and compile in linux terminal use: 
-
+cd to the folder that is saved the project 
 mvn exec:java -Dexec.mainClass=com.mycompany.flight_sys_syntax_it_group.FLIGHT_SYS_SYNTAX_IT_GROUP
 
 
